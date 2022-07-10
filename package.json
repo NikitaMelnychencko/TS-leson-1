@@ -1,0 +1,24 @@
+{
+  "name": "ts-leson-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "tsBuild":"tsc app.ts",
+    "start": "lite-server "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaMelnychencko/TS-leson-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikitaMelnychencko/TS-leson-1/issues"
+  },
+  "homepage": "https://github.com/NikitaMelnychencko/TS-leson-1#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
